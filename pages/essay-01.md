@@ -6,16 +6,16 @@ permalink: /essay-01.html
 
 {% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
 
-# My Essay Title
+# Women and Workers' Rights
 
 ## Introduction
 
-Here's some sample text, written in Markdown.
+At the turn of the 20th Century, women realized the need for labor reform.  Child labor was also an issue at the forefront for these women. They knew they would have to organize in order to acheive proper rights for themselves and their children.
 In Markdown, any text with no empty lines between will become a paragraph.
 
 Leave an empty line between headings and paragraphs.
 
-Font can be *Italic* or **Bold**.
+**Women and Workers' Rights**. *labor reform*
 
 Citing your work is important! [^1]
 
