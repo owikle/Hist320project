@@ -4,8 +4,8 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
-
+{% include feature/line-chart.html data="party-platforms-1900-1944-all" topic="Free Market Capitalism" %}
+I chose this graph because in 1940 President Roosevelt used this topic more than any of the other years, 1900-1944. Perhaps many industries were expanding, as well as educational opportunities for **all** Americans. Men and women alike..
 # Women and Workers' Rights
 
 ## Introduction
