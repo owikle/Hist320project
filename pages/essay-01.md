@@ -1,5 +1,7 @@
 ---
 title: Essay 1
+{% include feature/image.html filename="20th century word cloud.png" alt="Image of word cloud" %}
+
 layout: about
 permalink: /essay-01.html
 ---
