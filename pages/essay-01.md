@@ -12,7 +12,8 @@ I chose this graph because in 1940 President Roosevelt used this topic more than
 [GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
 
 
-At the turn of the 20th Century, women realized the need for labor reform.  Child labor was also an issue at the forefront for these women. They knew they would have to organize in order to acheive proper rights for themselves and their children.
+At the turn of the 20th Century, women became increasingly involved with labor politics and progressive reform. Women suffrage would be a key component to enable their contributions and activate changes in labor policy. Their intentions were to protect the health and safety of women and establish regulations in the workplace which would be implemented by the government.   
+
 In Markdown, any text with no empty lines between will become a paragraph.
 
 Leave an empty line between headings and paragraphs.
