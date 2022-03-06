@@ -3,6 +3,8 @@ title: Essay 1
 layout: about
 permalink: /essay-01.html
 ---
+{% include feature/nav-menu.html sections="Introduction;The Progressive Movement;Conclusion;Notes" %}
+
 
 {% include feature/line-chart.html data="party-platforms-1900-1944-all" topic="Free Market Capitalism" %}
 I chose this graph because in 1940 President Roosevelt used this topic more than any of the other years, 1900-1944. Perhaps many industries were expanding, as well as educational opportunities for **all** Americans. Men and women alike..[^]
@@ -10,7 +12,7 @@ I chose this graph because in 1940 President Roosevelt used this topic more than
 ---
 ## Introduction
 [GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
-
+### My First Subheading
 
 At the turn of the 20th Century, women became increasingly involved with labor politics and progressive reform. Women suffrage would be a key component to enable their contributions and activate changes in labor policy. Their intentions were to protect the health and safety of women and establish regulations in the workplace which would be implemented by the government.   
 
