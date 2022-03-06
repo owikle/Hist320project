@@ -7,8 +7,10 @@ permalink: /essay-01.html
 {% include feature/line-chart.html data="party-platforms-1900-1944-all" topic="Free Market Capitalism" %}
 I chose this graph because in 1940 President Roosevelt used this topic more than any of the other years, 1900-1944. Perhaps many industries were expanding, as well as educational opportunities for **all** Americans. Men and women alike..[^]
 # Women and Workers' Rights
-
+---
 ## Introduction
+[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
+
 
 At the turn of the 20th Century, women realized the need for labor reform.  Child labor was also an issue at the forefront for these women. They knew they would have to organize in order to acheive proper rights for themselves and their children.
 In Markdown, any text with no empty lines between will become a paragraph.
