@@ -5,7 +5,7 @@ permalink: /essay-01.html
 ---
 
 {% include feature/line-chart.html data="party-platforms-1900-1944-all" topic="Free Market Capitalism" %}
-I chose this graph because in 1940 President Roosevelt used this topic more than any of the other years, 1900-1944. Perhaps many industries were expanding, as well as educational opportunities for **all** Americans. Men and women alike..
+I chose this graph because in 1940 President Roosevelt used this topic more than any of the other years, 1900-1944. Perhaps many industries were expanding, as well as educational opportunities for **all** Americans. Men and women alike..[^]
 # Women and Workers' Rights
 
 ## Introduction
@@ -61,3 +61,4 @@ More documentation on how to write your essay in Markdown--as well as how to inc
 ## Notes
 
 [^1]: Katie Kitamura, A Separation (New York: Riverhead Books, 2017), 25.
+[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
