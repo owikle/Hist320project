@@ -1,7 +1,5 @@
 ---
 title: Essay 1
-{% include feature/image.html filename="20th century word cloud.png" alt="Image of word cloud" %}
-
 layout: about
 permalink: /essay-01.html
 ---
@@ -34,7 +32,7 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 ### Heading Three, etc.
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
+Hyperlinks look like this [GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
 
 A bullet list is created using `*`, `+`, or `-`, like:
 
