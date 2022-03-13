@@ -5,7 +5,7 @@ permalink: /essay-01.html
 ---
 #Women and Labor Politics in Early 20th century
 
-Introduction:
+##Introduction:
  
 At the turn of the 20th century the divide between classes became sharply apparent.  Industrialization easily divided the working class from the middle to upper classes and created a hierarchy of control. The main goals of managers and factory owners was to maintain profits in order to survive the competitive markets in which their products were sold.  Regulations pertaining to the health, safety, and well-being of the workers had not been created.  Companies may have created their own codes and safety guidelines but were not forced to adhere to governmental regulations. Factory owners were also in a ‘survival of the fittest’ dilemma.  Capital gains were put before safety standards and factory buildings had no safety codes to prevent hazards like fires or chemical spills. The Triangle Shirtwaist Fire of 1911 is a primary example of this lack of foresight/safety regulations when a fire erupted in the factory and many of women garment workers became trapped inside the building due to a narrow fire escape, and locked doors prevented them from escaping.  146 workers were killed in this fire, unjustly served this fate by their corrupt managers.  It is has been noted that the women who worked in the Triangle factory were forced to work 12 hour days, every day of the week.  In 1909 the ‘Ladies International Garment Worker’s Union’ led a strike asking for better working conditions.  Some of these ladies on strike worked at the Triangle Factory.  Rose Schneiderman is known for her involvement in this strike and her famous speech given April 2,!911 reflects a call to action on behalf of all workers’ and especially the lives lost in the fire…. “I can't talk fellowship to you who are gathered here. Too much blood has been spilled. I know from my experience it is up to the working people to save themselves. The only way they can save themselves is by a strong working-class movement.” {1}  
 
@@ -17,7 +17,12 @@ Frances Perkins and Florence Kelley met at Mount Holyoke College. Frances later 
 
 Frances began to walk in the footsteps of her mentor as she also became involved in labor politics. Her eventual rise to become Secretary of Labor under President Franklin’s Roosevelt’s administration was influenced by the work of Kelley.  During her time as New York industrial commissioner in 1929, Kelley wrote, “there will be less death, misery and poverty because you are at the helm.” [4] 
 
-The economic crash of 1929 gave way to the Great Depression.  Unemployment increased rapidly as well as psychological despair for so many average citizens confronting the reality of the depression.  As industrial commissioner, Frances worked closely with Roosevelt who served as governor of New York from 1929 to the point of his presidential election.  (Both bearing witness to the great economic upheaval..) On March 30, 1930, FDR became the first American governor to stress that unemployment was a major national risk. {5}  Perkins took these ideas into account and realized that the economic depression was propelling the nation to find greater solutions to labor issues.  In 1932, she became Roosevelt’s first women cabinet member as Secretary of Labor. During this time, she proposed ideas for unemployment insurance, minimum wage laws, prohibitions on child labor, and eventually social security for the elderly.  Most of these ideas blossomed into fruition.  In 1938, the Fair Labor Standards Act was passed.  Frances played a significant role in shaping these reforms and providing the average citizen with a solid foundation to live upon. The act established the first minimum wage and overtime laws, defined the 40 hour work week and in most cases restricted the use of child labor.  As a women who clearly defied the gender limitations of her time, Frances’s work as Secretary of Labor was truelly exceptional.  Florence, Addams, and Schneiderman were also brave women- unafraid of obstacles, driven by a relentless passion to improve society and assure women their rights’ to influence American politics and governmental policy. 
+The economic crash of 1929 gave way to the Great Depression.  Unemployment increased rapidly as well as psychological despair for so many average citizens confronting the reality of the depression.  As industrial commissioner, Frances worked closely with Roosevelt who served as governor of New York from 1929 to the point of his presidential election.  (Both bearing witness to the great economic upheaval..) On March 30, 1930, FDR became the first American governor to stress that unemployment was a major national risk. {5}  Perkins took these ideas into account and realized that the economic depression was propelling the nation to find greater solutions to labor issues.  In 1932, she became Roosevelt’s first women cabinet member as Secretary of Labor. During this time, she proposed ideas for unemployment insurance, minimum wage laws, prohibitions on child labor, and eventually social security for the elderly.  Most of these ideas blossomed into fruition.  In 1938, the Fair Labor Standards Act was passed.  Frances played a significant role in shaping these reforms and providing the average citizen with a solid foundation to live upon. The act established the first minimum wage and overtime laws, defined the 40 hour work week and restricted the use of child labor.  As a women who clearly defied the gender limitations of her time, Frances’s work as Secretary of Labor was truelly exceptional.  Florence, Addams, and Schneiderman were also brave women- unafraid of obstacles, driven by a relentless passion to improve society and assure women their rights’ to influence American politics and governmental policy. 
+
+
+% include feature/image.html filename="Word cloud generated from 1938 State of the Union Address.png" alt="1938 Word Cloud" %}
+
+   
 
 
 Citations:
@@ -30,26 +35,6 @@ Citations:
 
 4.  Kirsten Downey.  *“The Woman Behind the New Deal”, FDR’s Secretary of Labor and his moral conscience”. 2009.
 
-
-  
-
-
-
-
-
-
-
-{% include feature/nav-menu.html sections="Introduction;The Progressive Movement;Conclusion;Notes" %}
-
-{% include feature/image.html filename="Word cloud generated from 1938 State of the Union Address.png" alt="1938 Word Cloud" %}
-
-   
-
-{% include feature/line-chart.html data="party-platforms-1900-1944-all" topic="Free Market Capitalism" %}
-
-# Women and Workers' Rights
----
-## Introduction
 
 
 
