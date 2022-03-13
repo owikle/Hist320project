@@ -3,9 +3,9 @@ title: Essay 1
 layout: about
 permalink: /essay-01.html
 ---
-#Women and Labor Politics in Early 20th century
+Women and Labor Politics in Early 20th century
 
-##Introduction:
+Introduction:
  
 At the turn of the 20th century the divide between classes became sharply apparent.  Industrialization easily divided the working class from the middle to upper classes and created a hierarchy of control. The main goals of managers and factory owners was to maintain profits in order to survive the competitive markets in which their products were sold.  Regulations pertaining to the health, safety, and well-being of the workers had not been established.  Companies may have created their own safety guidelines but were not forced to adhere to governmental regulations. Factory owners were also in a ‘survival of the fittest’ dilemma.  Capital gains were put before safety standards and factory buildings lacked safety codes to prevent hazards like fires or chemical spills. The Triangle Shirtwaist Fire of 1911 is a primary example of this lack of foresight/safety regulations when a fire erupted in the factory and many of women garment workers became trapped inside the building due to a narrow fire escape, and locked doors prevented them from escaping.  146 workers were killed in this fire, unjustly served this fate by their corrupt managers.  It is has been noted that the women who worked in the Triangle factory were forced to work 12 hour days, every day of the week.  In 1909 the ‘Ladies International Garment Worker’s Union’ led a strike asking for better working conditions.  Some of these ladies on strike worked at the Triangle Factory.  Rose Schneiderman is known for her involvement in this strike and her famous speech given April 2,1911,reflects a call to action on behalf of all workers’ and especially the lives lost in the fire…. “I can't talk fellowship to you who are gathered here. Too much blood has been spilled. I know from my experience it is up to the working people to save themselves. The only way they can save themselves is by a strong working-class movement.” {1}  
 
