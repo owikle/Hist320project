@@ -33,7 +33,7 @@ Citations:
 
 3.  Florence Kelley.  http://florencekelley.northwestern.edu/
 
-4.  Kirsten Downey.  *“The Woman Behind the New Deal”, FDR’s Secretary of Labor and his moral conscience”. 2009.
+4.  Kirsten Downey.  *“The Woman Behind the New Deal”, FDR’s Secretary of Labor and his Moral Conscience”. 2009.
 
 
 
