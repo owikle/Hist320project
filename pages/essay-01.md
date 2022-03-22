@@ -3,12 +3,19 @@ title: Essay 1
 layout: about
 permalink: /essay-01.html
 ---
-**Women and Labor Politics in the Early 20th century                
+**Women and Labor Politics in the Early 20th century**                
 
-Introduction:
+**Introduction:**
  
-At the turn of the 20th century the divide between classes became sharply apparent. Many men, women, and children of the working class worked in industrial factories as their options to find work was limited to this competitive market. A vast surplus of workers congregated to urban cities of America; European immigration remained steady for nearly 70 years prior to the Immigration Act of 1924.  Elements of poverty and progress were plain to see in the cities. Factory work required long hours; managers put speed above safety and children were allowed to work alongside adults in dangerous conditions. Safe and sanitary housing was scarce in cities throughout the height of this revolution; some families crowded together in basements, and city sewage systems were not fully developed. It is estimated that by 1904, one in three people living in cities were close to starving to death.{2}  New avenues of social work would be needed to alleviate these degraded conditions working class people lived in. Many women working with the suffrage movement became involved in labor reform in order to influence, and shift government policy to protect workers. For starters, child labor needed to be restricted;workers deserved the right to feel safe at work and rewarded with proper wages to meet the costs of living.
 
+**This is a Rough Draft.**
+
+At the dawn of the 20th century, the Gilded Age displayed both the bliss of prosperity and the plight of poverty. The industrial revolution took its' worst toll on the people who fueled these production lines. While managers were able to reward themselves with handsome salaries, they in turn, neglected their workers, bereft of any quality of life. New avenues of social work were needed to alleviate these degrading conditions working class people lived and worked in. Many women experienced these conditions firsthand either as a worker, or witness to this suffering. It was a natural reaction for many women to join various reform movements and fight against this disregard for human life. For starters, child labor needed to be restricted and workers deserved the right to proper wages to meet the costs of living. The women suffrage movement that began prior to the Civil War carried into the 20th century striving for the passage of what became- the 19th amendment. Allowing women the right to vote and participate in decisions relevant to civic life was a key component for women to influence, and shift government policy to protect workers. However the struggle to attain equality before the law for all women, regardless of class or color, would take a strenous amount of time to achieve.  The walls of discrimation would prove hard to tear down throughout this upcoming, modern century. Yet many women entered labor politics and influenced aspects of social reform before the 19th amendment was ratified. Women who led strikes, organized rallies and created safe havens for families in urban settings defied political exclusion. 
+
+A steady supply of workers flooded the eastern sea ports in America, eager to find work and a new place to call home. This second industrial revolution was fueled by many European immigrants, competing with natives to ascertain their skills and rights to US citizenship. Elements of poverty and progress were plain to see in these urban centers. Safe and sanitary housing was scarce in cities throughout the height of this revolution; some families crowded together in basements, and city sewage systems were not fully developed. It is estimated that by 1904, one in three people living in cities were close to starving to death.{2}  Working conditions in industrial factories were often found to be unsafe. Managers of these production lines put speed above safety, forcing their employees to work long shifts. Children were permitted to work alongside adults in dangerous conditions. Women who experienced these conditions 
+
+ 
+to 
 
 
 
