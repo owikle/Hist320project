@@ -5,8 +5,13 @@ permalink: /essay-01.html
 ---
 **Women and Labor Politics in the Early 20th century**                
 
+{% include feature/image.html filename="New York shirtwaist strike of 1909.jpg" alt="New York Shirtwaist Strike of 1909" caption="Shirtwaist Strike of 1909" %}
+
+
+
 **Introduction:**
  
+
 
 **This is a Rough Draft.**
 
