@@ -50,7 +50,7 @@ The economic crash of 1929 gave way to the Great Depression.  Unemployment incre
 **Conclusion**
 
 
-**Citations:**
+**Notes:**
 
 
 1.  Library of Congress.  Cities During the Progressive Era.
