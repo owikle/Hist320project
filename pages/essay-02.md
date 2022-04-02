@@ -14,22 +14,13 @@ permalink: /essay-02.html
 
 
 **Introduction:**
- 
-
-
-**This is a Rough Draft.**
 
 At the dawn of the 20th century, American society experienced both the bliss of prosperity and the plight of poverty. The second industrial revolution was fueled by European immigrants, competing with natives to ascertain their skills and rights to US citizenship. Working conditions in industrial factories were often found unsafe and workers suffered through long work shifts. New avenues of social work were needed to alleviate degrading conditions working class people lived and worked in. Many women experienced these conditions firsthand. It was a natural reaction for many women to join various reform movements and fight against this disregard for human life. For starters, child labor needed to be restricted and workers deserved the right to proper wages to meet the costs of living. Allowing women the right to vote and participate in decisions relevant to civic life was a key component for women to influence, and shift government policy to protect workers. On August 18, 1920, the 19th amendment was ratified. Yet many women entered labor politics and influenced aspects of social reform before the 19th amendment was ratified. Women who led strikes, organized rallies and created safe havens for families in urban settings defied political exclusion. 
-
 
  
 **Jane Addams and the Gifts of Hull House**
 
-Safe and sanitary housing was scarce in cities throughout the height of this revolution. Many families crowded together in basements, and city sewage systems were not fully developed. It is estimated that by 1904, one in three people living in cities were close to starving to death.{2}   The pioneering work of Jacob Riis in “How the Other Half Lives”, (1890) chronicled the squalid living conditions among the Tenements in New York City.  Riis's photography captured the social realism of industrial America and the misery inherently affecting the working class.
-
-
-Social activist Jane Addams founded Hull House in 1898 in order to provide welfare assistance to individuals and families living in Chicago.  
-Addams, the founder of Hull House, (1889), set a social welfare precedent by providing poor immigrants and their families a place to seek shelter, education, and child care for their children. Addam's contribution to social welfare reform continued up to her passing, showing her unwavering dedication to social issues...
+Safe and sanitary housing was scarce in cities throughout the height of this revolution. Many families crowded together in basements, and city sewage systems were not fully developed. It is estimated that by 1904, one in three people living in cities were close to starving to death.{2}   The pioneering work of Jacob Riis in “How the Other Half Lives”, (1890) chronicled the squalid living conditions among the Tenements in New York City.  Riis's photography captured the social realism of industrial America and the misery inherently affecting the working class. Social- activist Jane Addams founded Hull House in 1898 in order to provide welfare assistance to individuals and families living in Chicago. Hull House, and the Henry Street settlement in New York city set a social welfare precedent by providing poor immigrants and their families a place to seek shelter, education, and child care for their children. Addam's contribution to social welfare reform continued up to her passing, showing her unwavering dedication to social issues...
 
 This rough draft is not fixed yet.
 
