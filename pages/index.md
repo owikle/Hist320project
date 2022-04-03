@@ -5,7 +5,7 @@ permalink: /
 credits: true
 ---
 
-# Digital History Project
+# History of Women in 20th Century Labor Politics
 
 This is the project site for the HIST 320 digital history project. Instructions for how to use this site to write your multimedia essay can be found at the accompanying documentation site, <https://learn-static.github.io/hist-320/web-setup.html>.
 
