@@ -20,9 +20,9 @@ source-code: https://github.com/AngieMary/Hist320project
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: **History of Women in 20th Century Labor Politics**
+title: #History of Women in 20th Century Labor Politics
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Women in Labor Politics
+tagline: #Women in Labor Politics
 # creator of the digital project, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Angie Mary 
 
