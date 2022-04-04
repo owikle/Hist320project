@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-02.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Jane Addams and the the Gifts of Hull House;Florence Kelley;Rise of Frances Perkens; Dolores Huerta and the Farm Labor Movement;Gloria Steinhem: Equal Pay for Equal Work Act;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections="Introduction;Jane Addams and the the Gifts of Hull House;Florence Kelley;Rise of Frances Perkins; Dolores Huerta and the Farm Labor Movement;Gloria Steinhem:Equal Pay for Equal Work Act;Conclusion;Notes" %}
 
 
 **Women and Labor Politics in the Early 20th century**                
