@@ -33,7 +33,7 @@ This rough draft is not fixed yet.
 
 When Florence was a young girl her father took her to factories where she witnessed child labor.  Her father, William D. Kelley, was an abolitionist, and founder of the Republican Party. W. Kelley was deeply opposed to child labor and taught Florence about the harsh truths concerning economics and human suffering. From 1891 to 1899 Kelley lived at Hull House settlement in Chicago and worked alongside Jane Addams. She became the first woman factory inspector in the United States.  She was appointed by Governor John Peter Altgeld in 1893. [3] In 1899, she founded and served as the first general secretary of the National Consumers League.  She held this position for 30 years. As the representative for the NCL, she helped prepare the Brandeis Brief, which was in defense of the 10 hour work day.  This brief gave strength to the Muller v. Oregon case in 1908 in which a court considered lowering the workday specifically in defense of women, and not men.  This case was the first of its’ kind because it used social science as evidence to support the argument to lessen the work day for women based on physical limitations and consideration for mothers to attend to their children. 
 
-
+{% include feature/image.html filename="Screenshot 2022-04-06 at 11-37-38 muller-toc.pdf.png" alt="Table of Contents: Brandeis Brief" caption="Table of Contents: Brandeis Brief" %} 
 
 
 
