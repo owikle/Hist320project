@@ -15,26 +15,16 @@ permalink: /essay-02.html
 
 **Introduction:**
 
-At the dawn of the 20th century, American society experienced both the bliss of prosperity and the plight of poverty. The second industrial revolution was fueled by European immigrants, competing with natives to ascertain their skills and rights to US citizenship. Working conditions in industrial factories were often found unsafe and workers suffered through long work shifts. New avenues of social work were needed to alleviate degrading conditions working class people lived and worked in. Many women experienced these conditions firsthand. It was a natural reaction for many women to join various reform movements and fight against this disregard for human life. For starters, child labor needed to be restricted and workers deserved the right to proper wages to meet the costs of living. Allowing women the right to vote and participate in decisions relevant to civic life was a key component for women to influence, and shift government policy to protect workers. On August 18, 1920, the 19th amendment was ratified. Yet many women entered labor politics and influenced aspects of social reform before the 19th amendment was ratified. Women who led strikes, organized rallies and created safe havens for families in urban settings defied political exclusion. 
 
- 
- 
  
 **Jane Addams and the Gifts of Hull House**
 
-Safe and sanitary housing was scarce in cities throughout the height of this revolution. Many families crowded together in basements, and city sewage systems were not fully developed. It is estimated that by 1904, one in three people living in cities were close to starving to death.{2}   The pioneering work of Jacob Riis in “How the Other Half Lives”, (1890) chronicled the squalid living conditions among the Tenements in New York City.  Riis's photography captured the social realism of industrial America and the misery inherently affecting the working class. Social- activist Jane Addams founded Hull House in 1898 in order to provide welfare assistance to individuals and families living in Chicago. Hull House, and the Henry Street settlement in New York city set a social welfare precedent by providing poor immigrants and their families a place to seek shelter, education, and child care for their children. Addam's contribution to social welfare reform continued up to her passing, showing her unwavering dedication to social issues...
-
-This rough draft is not fixed yet.
-
-
+Safe and sanitary housing was scarce in cities throughout the height of this revolution. Many families crowded together in basements, and city sewage systems were not fully developed. It is estimated that by 1904, one in three people living in cities were close to starving to death.{2} 
 
 **Florence Kelley**
 
 
 When Florence was a young girl her father took her to factories where she witnessed child labor.  Her father, William D. Kelley, was an abolitionist, and founder of the Republican Party. W. Kelley was deeply opposed to child labor and taught Florence about the harsh truths concerning economics and human suffering. From 1891 to 1899 Kelley lived at Hull House settlement in Chicago and worked alongside Jane Addams. She became the first woman factory inspector in the United States.  She was appointed by Governor John Peter Altgeld in 1893. [3] In 1899, she founded and served as the first general secretary of the National Consumers League.  She held this position for 30 years. As the representative for the NCL, she helped prepare the Brandeis Brief, which was in defense of the 10 hour work day.  This brief gave strength to the Muller v. Oregon case in 1908 in which a court considered lowering the workday specifically in defense of women, and not men.  This case was the first of its’ kind because it used social science as evidence to support the argument to lessen the work day for women based on physical limitations and consideration for mothers to attend to their children. 
-
-{% include feature/image.html filename="Screenshot 2022-04-06 at 11-37-38 muller-toc.pdf.png" alt="Table of Contents: Brandeis Brief" caption="Table of Contents: Brandeis Brief" %} 
-
 
 
 
