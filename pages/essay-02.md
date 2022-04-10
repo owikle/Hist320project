@@ -13,7 +13,9 @@ permalink: /essay-02.html
 
 
 
-**Introduction:**
+# **Introduction:**
+
+**Industrial Revolution**
 
 At the turn of the 20th century the second industrial revolution was entering a new peak. With an increasing supply of workers many different companies began to expand production. A typical work day in a factory setting would house the worker for 8, 10, or 12 hour increments.  Wages were oftentimes minimal, as workforce competition allowed managers to easily replace weary workers with newcomers.  Immigration was consistent on the Eastern seaports of America during this time. Factories were often found to be ill- equipped buildings and at times posed dangerous hazards for workers. Outside of work, safe and sanitary housing was scarce. Population growth in the cities began to exceed existing infrastructure to house the growing working class. Many families crowded together in basements, and city sewage systems were not fully developed. It is estimated that by 1904, one in three people living in cities were close to starving to death.{2}    
 
@@ -37,6 +39,17 @@ Frances began to walk in the footsteps of her mentor as she also became involved
 {% include feature/image.html filename="perkins_1911.jpg" alt="Frances Perkins" caption="Frances Perkins at Work" %}
 
 The economic crash of 1929 gave way to the Great Depression.  Unemployment increased rapidly as well as psychological despair for many average citizens confronting the reality of the depression.  As Industrial Commissioner, Frances worked closely with Roosevelt who served as governor of New York from 1929 to the point of his presidential election.  (Both bearing witness to the great economic upheaval..) On March 30, 1930, FDR became the first American governor to stress that unemployment was a major national risk. {5}  Perkins took these ideas into account and realized that the economic depression was propelling the nation to find greater solutions to labor issues.  In 1932, she became Roosevelt’s first women cabinet member as Secretary of Labor. During this time, she proposed ideas for unemployment insurance, minimum wage laws, prohibitions on child labor, and eventually social security for the elderly.  Most of these ideas blossomed into fruition.  In 1938, the Fair Labor Standards Act was passed.  Frances played a significant role in shaping these reforms and providing the average citizen with a solid foundation to live upon. The act established the first minimum wage and overtime laws, defined the 40 hour work week and restricted the use of child labor.  As a woman who clearly defied the gender limitations of her time, Frances’s work as Secretary of Labor was truelly exceptional. 
+
+
+
+
+
+
+
+{% include feature/line-chart.html data="party-platforms-1948-2000-democratic" topic="World Peace" %}
+
+
+
 
 **Conclusion**
 
