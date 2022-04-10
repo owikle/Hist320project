@@ -14,12 +14,13 @@ permalink: /essay-02.html
 
 
 **Introduction:**
+At the turn of the 20th century the second industrial revolution was entering a new peak. With an increasing supply of workers many different companies began to expand production. A typical work day in a factory setting would house the worker for 8, 10, or 12 hour increments.  Wages were oftentimes minimal, as workforce competition allowed managers to easily replace weary workers with newcomers.  Immigration was consistent on the Eastern seaports of America during this time. Factories were often found to be ill- equipped buildings and at times posed dangerous hazards for workers. Outside of work, safe and sanitary housing was scarce. Population growth in the cities began to exceed existing infrastructure to house the growing working class. Many families crowded together in basements, and city sewage systems were not fully developed. It is estimated that by 1904, one in three people living in cities were close to starving to death.{2}    
 
 
  
 **Jane Addams and the Gifts of Hull House**
 
-Safe and sanitary housing was scarce in cities throughout the height of this revolution. Many families crowded together in basements, and city sewage systems were not fully developed. It is estimated that by 1904, one in three people living in cities were close to starving to death.{2} 
+Jane Addams founded a settlement house in Chicago to serve the needs of many immigrant working class families.   
 
 **Florence Kelley**
 
