@@ -13,7 +13,7 @@ permalink: /essay-02.html
 
 
 
-# **Introduction:**
+**Introduction:**
 
 **Industrial Revolution**
 
