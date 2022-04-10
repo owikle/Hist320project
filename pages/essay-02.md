@@ -7,7 +7,7 @@ permalink: /essay-02.html
 {% include feature/nav-menu.html sections="Introduction;Jane Addams and the the Gifts of Hull House;Florence Kelley;Rise of Frances Perkins; Dolores Huerta and the Farm Labor Movement;Betty Friedan:Equal Pay for Equal Work Act; May Chen: Chinatown Garment Workers Strike;Conclusion;Notes" %}
 
 
-**Women and Labor Politics in the Early 20th century**                
+**Women and 20th Century Labor History**                
 
 {% include feature/image.html filename="New York shirtwaist strike of 1909.jpg" alt="New York Shirtwaist Strike of 1909" caption="Shirtwaist Strike of 1909" %}
 
